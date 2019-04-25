@@ -1,8 +1,16 @@
 ﻿# coding=utf-8
 """
-307attoube冷却水监控报警程序-serve
+307attoube冷却水监控报警程序-server
 
   %%需配合花生壳运行在80端口%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%Copyright: Copyright (c) 2018
+%Created on 2018-11-23 
+%Author:MengDa (github:pilidili)
+%Version 1.0 
+%Title: 307attoube冷却水监控报警程序-server
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
   
 """
 import itchatmp, modbus_tk, os, random, re, serial, struct, time, xlrd
